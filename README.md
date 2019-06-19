@@ -2,7 +2,7 @@
 
 Códigos Server Amazon
 
-Softwares Utilizados Filezilla para acesso FTP http://www.heidisql.com/ para acesso ao banco de dados Mysql <b> Putty Puttygen Plink <b>
+Softwares Utilizados Filezilla para acesso FTP para acesso ao banco de dados Mysql <b> Putty Puttygen Plink <b>
 
 <h2>Baixar Atualização Ubuntu Linux</h2>
 
